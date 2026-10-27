@@ -2,7 +2,7 @@
 
 A browser-based forensics tool. Upload any file (images especially) and it checks whether the file's **real type**, read from its magic bytes, matches its extension.
 
-**Live demo:** `https://github.com/CreativeSceneTV/FileTypeScanner.git` 
+**Live demo:** `https://creativescenetv.github.io/FileTypeScanner/` 
 
 ## Features
 - Verdicts: **OK**, **MISMATCH**, **HIGH RISK** (executable disguised as another type), **UNKNOWN**
